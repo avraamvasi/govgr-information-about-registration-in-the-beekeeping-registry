@@ -78,4 +78,4 @@ By following these steps, your site will be live and accessible via the provided
 
 ## Acknowledgments
 
-This project was developed as part of a thesis assignment. Special thanks to our professors and mentors for their guidance and support.
+This project was created as part of the Electronic Government Systems course during postgraduate studies at the University of Macedonia. Special thanks to our professors and the contributors of the following project, from which most of the source code was derived: https://github.com/govgr-mobility-card/ps-info-template/
