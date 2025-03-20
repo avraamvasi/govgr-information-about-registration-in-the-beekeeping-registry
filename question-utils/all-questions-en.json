@@ -1,0 +1,38 @@
+[
+   {
+       "id": 0,
+       "question": "Which of the following categories do you belong to?",
+       "options": [
+           "I am a person with full legal capacity in Greece, and I own, possess, and manage at least five (5) beehives within Greek territory as the exclusive owner.",
+           "I am a person with full legal capacity in Greece, I own fewer than five (5) beehives within Greek territory, and I wish to acquire the status of an active beekeeper and the privileges that come with it.",
+           "I do not belong to any of the above categories."
+       ]
+   },
+   {
+       "id": 1,
+       "question": "Are you a natural person or a legal entity?",
+       "options": ["Natural person", "Legal entity"]
+   },
+   {
+       "id": 2,
+       "question": "Are you a permanent and legal resident of Greece, or is your headquarters in Greece?",
+       "options": ["Yes", "No"]
+   },
+   {
+       "id": 3,
+       "question": "Which of the following categories do you or the legal representative of the legal entity belong to?",
+       "options": [
+           "Greek citizen or a citizen of an EU Member State.",
+           "Citizen of a non-EU country."
+       ]
+   },
+   {
+       "id": 4,
+       "question": "Do you belong to any of the following categories?",
+       "options": [
+           "The beehives in possession were acquired through purchase.",
+           "The beehives in possession were acquired through transfer or inheritance.",
+           "I do not belong to any of the above categories."
+       ]
+   }
+]

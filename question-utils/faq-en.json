@@ -1,0 +1,27 @@
+[
+    {
+      "id": 0,
+      "question": "How much does it cost to register in the beekeeping registry?",
+      "answer": "It is provided free of charge."
+    },
+    {
+      "id": 1,
+      "question": "Is the registration process in the beekeeping registry provided digitally?",
+      "answer": "It is not provided digitally."
+    },
+    {
+      "id": 2,
+      "question": "What is the estimated time to complete the registration?",
+      "answer": "It is 1 to 3 months."
+    },
+    {
+       "id": 3,
+       "question": "Is it mandatory to register in the Registry if I have less than 5 hives?",
+       "answer": "No, registration is optional. However, if you want to obtain the status of an active beekeeper and the associated privileges you must register."
+    },
+    {
+       "id": 4,
+       "question": "Can I consume the honey I produce without being registered in the Registry?",
+       "answer": "Yes, there is no restriction on the self-consumption of the honey you produce. However, if you want to sell your honey, even with less than 5 hives, registration in the Beekeeping Registry is mandatory."
+    }
+    ]

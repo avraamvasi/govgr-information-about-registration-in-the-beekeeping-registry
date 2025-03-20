@@ -1,0 +1,118 @@
+{
+    "PublicService": {
+        "name": "Registration in the Beekeeping Register",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Photocopy of a valid police ID card or passport.",
+                        "description": "Photocopy of a valid police ID card or passport."
+                    },
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "One (1) recent color photograph of the active beekeeper or the responsible person of the beekeeping entity, in case of a legal entity, with dimensions 35mm x 30mm.",
+                        "description": "One (1) recent color photograph of the active beekeeper or the responsible person of the beekeeping entity, in case of a legal entity, with dimensions 35mm x 30mm."
+                    },
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Certificate of permanent residence for a natural person or the registered office of a legal entity.",
+                        "description": "Certificate of permanent residence for a natural person, according to Article 279 of Law 3463/2006 (A114), as amended by Article 188 of Law 4764/2020 (A 256), or the registered office of a legal entity. To prove permanent residency status, a certificate of permanent residence can also be issued electronically via the Unified Digital Portal of Public Administration (gov.gr) after an electronic application by the interested party."
+                    },
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Certificate of hive ownership.",
+                        "description": "Certificate of hive ownership issued by a beekeeping association or, if none exists, by an agricultural association of the area of the permanent residence of the natural person or the registered office of the legal entity."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "Document proving legal residence in the country.",
+                        "description": "Document proving legal residence in the country for the natural person or the legal representative of the legal entity, if they originate from a country that is not a member of the European Union."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0006",
+                        "type": "Evidence",
+                        "name": "Statutes or Government Gazette publication (FEK) if the applicant is a legal entity.",
+                        "description": "Statutes or Government Gazette publication (FEK) in which the act of establishment and incorporation of the legal entity has been published."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0007",
+                        "type": "Evidence",
+                        "name": "Proof of purchase for the acquisition of owned hives.",
+                        "description": "If the owned hives were acquired through purchase, the relevant purchase documents for the hives or nucleus colonies must be submitted, and the seller’s and buyer’s registers must be updated accordingly."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "evs": [
+                    {
+                        "id": "ev0008",
+                        "type": "Evidence",
+                        "name": "Proof of acquisition of owned hives in case of transfer or inheritance.",
+                        "description": "If the owned hives were acquired through transfer or inheritance, a copy of the relevant notarized document or inheritance certificate must be submitted."
+                    }
+                ]
+            }
+        ],
+        "criterion_requirements": [
+            {
+                "id": "cr0001",
+                "name": "I am a person with full legal capacity in Greece and maintain at least five (5) hives within Greek territory as the sole owner, possessor, and holder of these hives."
+            },
+            {
+                "id": "cr0002",
+                "name": "I am a person with full legal capacity in Greece, maintain fewer than five (5) hives within Greek territory, and wish to obtain the status of an active beekeeper and the privileges that come with it."
+            },
+            {
+                "id": "cr0003",
+                "name": "Natural person."
+            },
+            {
+                "id": "cr0004",
+                "name": "Legal entity."
+            },
+            {
+                "id": "cr0005",
+                "name": "(For a natural person) Permanent and legal resident of Greece / (For a legal entity) Legal entity with a registered office in Greece."
+            },
+            {
+                "id": "cr0006",
+                "name": "(For a natural person) Greek citizen or a citizen of an EU member state / (For a legal entity) The legal representative of the legal entity is a Greek citizen or a citizen of an EU member state."
+            },
+            {
+                "id": "cr0007",
+                "name": "(For a natural person) Citizen of a country that is not an EU member state / (For a legal entity) The legal representative of the legal entity is a citizen of a country that is not an EU member state."
+            },
+            {
+                "id": "cr0008",
+                "name": "The owned hives have been acquired through purchase."
+            },
+            {
+                "id": "cr0009",
+                "name": "The owned hives have been acquired through transfer or inheritance."
+            }
+        ]
+    }
+}
