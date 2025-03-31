@@ -302,7 +302,7 @@ $("document").ready(function () {
     const errorEnd = document.createElement("h5");
     const error =
       currentLanguage === "greek"
-        ? "Λυπούμαστε αλλά δεν μπορείτε να γραφτείτε στον μελισσοκομικό μητρώο!"
+        ? "Λυπούμαστε αλλά δεν μπορείτε να γραφτείτε στο μελισσοκομικό μητρώο!"
         : "We are sorry, but you cannot register in the beekeeping registry!";
     errorEnd.className = "govgr-error-summary";
     errorEnd.textContent = error + " " + message;
